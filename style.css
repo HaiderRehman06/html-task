@@ -1,4 +1,5 @@
 body{
+  
     margin: 0;
     padding: 0;
     font-family: sans-serif;
@@ -21,6 +22,7 @@ h1{
 }
 .frm{
     margin-left: 10px;
+    background-color: white;
 }
 fieldset{
     margin-top: 40px;
@@ -30,6 +32,7 @@ fieldset{
     border: none;
     box-shadow: 2px 4px 10px;
     padding-bottom: 10px;
+    background-color: white;
 }
 .bg-img{
     background-size: cover;
@@ -62,9 +65,9 @@ a{
     opacity: 0.8;
 }
 .bg-img{
-    background-image: url(./bg.jpeg);
+    background-image: url(./img/bg.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: -10px;
-    }
+    } 
